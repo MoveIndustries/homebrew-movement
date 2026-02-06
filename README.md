@@ -1,6 +1,6 @@
 # Homebrew Movement
 
-Homebrew tap for the [Movement CLI](https://movementnetwork.xyz/) - a command-line tool for interacting with the Movement blockchain.
+Homebrew tap for the [Movement CLI](https://docs.movementnetwork.xyz/devs/movementcli) - a command-line tool for interacting with the Movement blockchain.
 
 ## Installation
 
