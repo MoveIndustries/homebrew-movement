@@ -23,7 +23,7 @@ brew upgrade movement
 
 ## Updating the Formula After a Release
 
-After running the [Release CLI workflow](https://github.com/movementlabsxyz/aptos-core/actions) to publish a new version, you need to update this tap with the new version and SHA256 checksums.
+After running the [Release CLI workflow](https://github.com/movement-network/aptos-core/actions) to publish a new version, you need to update this tap with the new version and SHA256 checksums.
 
 ### What the update script does
 
