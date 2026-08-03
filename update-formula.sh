@@ -5,7 +5,7 @@
 set -e
 
 VERSION="${1:?Usage: $0 <version>}"
-BASE_URL="https://github.com/movementlabsxyz/aptos-core/releases/download/movement-cli-v${VERSION}"
+BASE_URL="https://github.com/movement-network/aptos-core/releases/download/movement-cli-v${VERSION}"
 FORMULA_FILE="Formula/movement.rb"
 
 echo "Updating formula for version ${VERSION}..."
